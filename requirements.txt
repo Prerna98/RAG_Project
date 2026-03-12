@@ -1,0 +1,7 @@
+chromadb
+sentence-transformers
+pypdf
+rapidfuzz
+pandas
+numpy
+jupyter
